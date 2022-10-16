@@ -204,7 +204,9 @@ void main() {
     print(a8[i]);
   }
 
-  List<String> numbers = ['5', '4', '3', '2', '1'];
+  // task 17
+
+  List<int> numbers = [5, 4, 3, 2, 1];
 
   for (int i = 0; i < numbers.length; i++) {
     print(numbers[i]);
